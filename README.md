@@ -30,7 +30,7 @@ Space: Power Circus Assembly im c-base Habitat beantragt.
 (hängt von unseren Kapazitäten ab)
 ## x = Zusätzliche Bastel-Möglichkeiten
  
-### LED Keulen: Keulen selberbauen und zum Leuchten bringen
+### LED Keulen
 - Die Keulen können einfach aus 1 l Mehrweg Colaflaschen einem Holzstab und einer Schraube gebaut werden die LED Deko wäre dann die Bastelchallenge.
 - Leuchten: Steuerung über Mikrocontroller oder einfache LEDs oder el-wire
 
