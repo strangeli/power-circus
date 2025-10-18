@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.5.2)  18 OCT 2025 22:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.5.2)  18 OCT 2025 22:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**power.tex
-(./power.tex
+**power-circus.tex
+(./power-circus.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -32,8 +32,8 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [a4].
 
-(./power.aux)
-\openout1 = `power.aux'.
+(./power-circus.aux)
+\openout1 = `power-circus.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -75,18 +75,12 @@ inem Holzstab
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
 dvips/cm-super/cm-super-ts1.enc}]
-Overfull \hbox (7.46342pt too wide) in paragraph at lines 46--47
-\OT1/cmr/m/n/10 verdeckt durch Auf-set-zen. K^^?onnte aber auch noch ne zweite 
-Lichtquelle
- []
-
-
 Overfull \hbox (1.24947pt too wide) in paragraph at lines 47--48
 []\OT1/cmr/m/n/10 Die Op-tio-nen re-ichen von LED Hun-de-halsb^^?andern, die ma
 n per Schal-
  []
 
-[2] (./power.aux)
+[2] (./power-circus.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -94,12 +88,12 @@ L3 programming layer <2024-01-22>
  ) 
 Here is how much of TeX's memory you used:
  470 strings out of 474222
- 8767 string characters out of 5748734
+ 8851 string characters out of 5748734
  1928975 words of memory out of 5000000
  22793 multiletter control sequences out of 15000+600000
  562659 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,6n,50p,276b,253s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 35i,6n,50p,304b,239s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
@@ -107,7 +101,7 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/
 cm-super/sfrm1000.pfb>
-Output written on power.pdf (2 pages, 90974 bytes).
+Output written on power-circus.pdf (2 pages, 91263 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
