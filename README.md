@@ -1,4 +1,5 @@
 # Power Circus
+by patchhoernchen, strangeli, sventastic & wabu
 
 We want to bring circus light to the congress and enable a power circus space.
 
@@ -6,10 +7,12 @@ You can learn how to make juggling balls, how to juggle them or manipulate any o
 
 Be curious and join us!
 
+---
+
 # Power Circus Program
 
 ## Space
-Power Circus Space for LED juggling & (LED) prop crafting --> Power Circus Assembly im c-base Habitat beantragt.
+Power Circus Space for LED juggling & (LED) prop crafting
 
 ## Events
 - **Day 1: Power Circus Re-Cycles** - Bälle basteln + ggf. x // make your juggling balls + maybe x
@@ -17,6 +20,11 @@ Power Circus Space for LED juggling & (LED) prop crafting --> Power Circus Assem
 - **Day 3:  Power Circus Chaos** - Objektmanipulation (Tricks kann man mit allem machen. Bring, was du willst, und find es heraus.) // object manipulation (you can do tricks with anything. Bring whatever you want and find out.)
 - **Any day: Power Circus LED Cycles** - Jongliershow sventastic mit LED Diabolo/ LED Poi und evtl. y // juggling show by sventastic with LED Diabolo, LED Poi and maybe y
 
+
+--> x = LED Keulen // LED clubs, LED Ringe // LED rings; y = LED hats
+
+---
+Space: Power Circus Assembly im c-base Habitat beantragt.
 
 # Power Circus Optional Program 
 (hängt von unseren Kapazitäten ab)
@@ -34,6 +42,7 @@ Power Circus Space for LED juggling & (LED) prop crafting --> Power Circus Assem
 
 ###  y = LED Hüte
  -    Gibt es noch nicht. Ideen: Lichtquelle innen immer verdeckt durch Aufsetzen. Könnte aber auch noch ne zweite Lichtquelle geben, die außen um den Hut geht.
--   Die Optionen reichen von LED Hundehalsbändern, die man  per Schalter an und ausmachen kann (schaffen wir wohl bis zum Kongress) bis zu programmierbaren LED-Bändern, die per Timecode, Controller oder per Mikro auf die Musik funktionieren. 
+-   Die Optionen reichen von LED Hundehalsbändern, die man  per Schalter an und ausmachen kann (schaffen wir wohl bis zum Kongress) bis zu programmierbaren LED-Bändern, die per Timecode, Controller oder per Mikro auf die Musik funktionieren (schaffen wir ggf. im Ansatz auf dem Kongress). 
+
 
 
